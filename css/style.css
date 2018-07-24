@@ -1,0 +1,20 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+}
+h1{text-align: center;}
+.line-chart, .bar-chart {
+    background-color: #e6f9f9;
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    }
+    .pie-chart {
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    }
+    
+.bar {
+     fill: #05adc5;
+     }
